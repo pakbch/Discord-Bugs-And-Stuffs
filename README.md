@@ -11,3 +11,9 @@ This is a Weird One
 
 ![image](https://user-images.githubusercontent.com/98830093/213634467-f1244864-e72a-4e38-98d5-913d0fab04ce.png)
 [blankmsg.zip](https://github.com/pakbch/Discord-Bugs-And-Stuffs/files/10463854/blankmsg.zip)
+
+# One Click RCE
+Private For Now
+
+# Discord Gif Spoof
+https://github.com/pakbch/Discord-Gif-Spoof
